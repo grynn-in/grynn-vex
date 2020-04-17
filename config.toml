@@ -1,4 +1,4 @@
-baseURL = "https://app.netlify.com"
+baseURL = "https://hopeful-nobel-f42a9b.netlify.app/"
 languageCode = "en-us"
 title = "Grynn Vex Ecommerce Demo"
 theme = "vex-hugo"
